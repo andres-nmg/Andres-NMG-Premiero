@@ -1,4 +1,4 @@
-- 👋 ¡Hola! Soy @andres-premiero, desarrollador web y fundador de Premiero.
+- 👋 ¡Hola! Soy @andres-nmg, desarrollador web y fundador de Premiero.
 - 💻 Especializado en WordPress, Elementor, optimización, automatización y desarrollo de soluciones a medida.
 - 🚀 En este perfil comparto proyectos personales, experimentos y herramientas que voy creando.
 - 🤝 Siempre abierto a colaborar en proyectos web interesantes.
